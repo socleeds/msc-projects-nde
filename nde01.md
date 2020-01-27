@@ -1,7 +1,7 @@
 <table>
 <tr>
-<th align="left">For Session</th>
-<td>2018/19</td>
+<th align="left">Available in 2020?</th>
+<td>Yes</td>
 </tr>
 <tr>
 <th align="left">Title of Project</th>
