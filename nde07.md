@@ -52,7 +52,7 @@ develop ways of easing this transition.  This could take the form of
 some specific training materials, backed up by some form of self-assessment.
 One interesting possibility would be to develop a training application that
 presents the user with short programming exercises, checks them and then
-award marks and gives feedback to the user.
+awards marks and gives feedback to the user.
 
 [1]: https://developer.android.com
 [2]: https://kotlinlang.org

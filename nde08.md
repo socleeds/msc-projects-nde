@@ -45,8 +45,8 @@ also provides an alternative approach to app development, using a
 cross-platform framework named [Flutter][3].
 
 Is Flutter a viable alternative to developing native Android apps in Kotlin
-for the Mobile Application Development module taught at Leeds?  What what
-we gain and what would we use by switching to Flutter?  What is the
+for the Mobile Application Development module taught at Leeds?  What would
+we gain and what would we lose by switching to Flutter?  What is the
 development experience for Flutter, compared with native Android app
 development in Kotlin?  Would it be easier to teach to students?  Would
 students value a cross-platform approach?  Would employers consider it
